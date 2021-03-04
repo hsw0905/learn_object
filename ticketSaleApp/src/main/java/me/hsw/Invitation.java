@@ -1,0 +1,7 @@
+package me.hsw;
+
+import java.time.LocalDateTime;
+
+public class Invitation {
+    private LocalDateTime when;
+}
